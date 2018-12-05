@@ -19,3 +19,11 @@ https://sanyuesha.com/archives/ golang
 https://jimmysong.io/about/ 宋净超 golang java cloud docker kubernetes
 
 http://tengj.top java spring
+
+http://www.trinea.cn/about_trinea/ java android
+
+https://blog.csdn.net/dc_726 西代零零发 java
+
+https://blog.csdn.net/lmj623565791 鸿洋 android
+
+https://blog.csdn.net/guolin_blog 郭霖 android
