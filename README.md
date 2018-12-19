@@ -27,3 +27,7 @@ https://blog.csdn.net/dc_726 西代零零发 java
 https://blog.csdn.net/lmj623565791 鸿洋 android
 
 https://blog.csdn.net/guolin_blog 郭霖 android
+
+http://blog.didispace.com/ 程序猿DD java spring elasticsearch
+
+https://www.codesheep.cn 程序羊 java spring elasticsearch
